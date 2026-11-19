@@ -7,7 +7,7 @@
 
 Building scalable applications, reusable interfaces, and better developer experiences.
 
-[Portfolio](https://amenx.me/) · [LinkedIn](www.linkedin.com/in/aman-kumar-5464242b8)
+[Portfolio](https://amenx.me/) · [LinkedIn](https://www.linkedin.com/in/aman-kumar-5464242b8/)
 
 </div>
 
